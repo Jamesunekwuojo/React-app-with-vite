@@ -1,0 +1,2 @@
+// CRA - does'nt allow server side rendering
+// . means u are already in a folder .

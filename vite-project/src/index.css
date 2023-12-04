@@ -68,6 +68,7 @@ button:focus-visible {
 } */
  
  .navbar{
+  margin-top: 0;
   padding: 5px;
   display: flex;
   align-items: center;
@@ -78,6 +79,7 @@ button:focus-visible {
 
  }
  .navbar a {
+  
   margin-right: 40px;
   text-decoration: none; 
   color: blue;
@@ -2152,7 +2154,7 @@ button:focus-visible {
 
 
 
-  
+
 }
 
 
